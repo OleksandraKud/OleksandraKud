@@ -9,7 +9,7 @@
 - ### ***[Check-list](https://docs.google.com/document/d/1bfuxyDXVr8X9Kl8Lq_hBAjIk0i1ChoNHjWRght-9K6w/edit?usp=sharing)***
 - ### ***[Test cases](https://docs.google.com/spreadsheets/d/1nSI_m83daggV0a_VXxdZtt4nMO3_cjzWinVBC_xJjlU/edit?usp=sharing)***
 - ### ***[Bug reports](https://docs.google.com/document/d/1iHhDcnBJq4158Y14dkZi9_Bn_d0ZIuAtNRDC9Q0kHuI/edit?usp=sharing)***
-- ### ***[Postman Collection](https://github.com/OleksandraKud/Postman/tree/master)***
+- ### ***[Postman Collection](https://github.com/OleksandraKud/Postman/blob/master/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/postman_collection/QAuto%20Homework.postman_collection.json)***
 
 ## Tools
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=%23FF6C37&labelColor=black&color=%23FF6C37)
