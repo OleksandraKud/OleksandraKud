@@ -13,6 +13,10 @@ Portfolio
 ![Charles](https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=charles&logoColor=%23F3F5F5&labelColor=%23F3F5F5&color=black)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=black&color=%234479A1)
 
+## Contact me
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=black&color=%2326A5E4)](https://t.me/leksa_kud)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=black&color=%230A66C2)](https://www.linkedin.com/in/oleksandra-kudinova1608/)
+
 
 
 
