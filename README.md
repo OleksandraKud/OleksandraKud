@@ -3,7 +3,7 @@
 ## I am a Junior QA Manual with a strong interest in this field and readiness to work in it. I find joy in learning new things and consistently enhancing my skills each day.
 
 ## My CV
-### [CV Kudinova Oleksandra](https://drive.google.com/file/d/1NtW_GVnas6cxyH8EcN3xD7JBf4EYlKaR/view?usp=sharing)
+### ***[CV Kudinova Oleksandra](https://drive.google.com/file/d/1NtW_GVnas6cxyH8EcN3xD7JBf4EYlKaR/view?usp=sharing)***
 
 ## Portfolio 
 - ### ***[Check-list](https://docs.google.com/document/d/1bfuxyDXVr8X9Kl8Lq_hBAjIk0i1ChoNHjWRght-9K6w/edit?usp=sharing)***
